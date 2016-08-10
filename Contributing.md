@@ -23,8 +23,8 @@ Guidelines for reporting bugs:
 
 We shouldn't need to ask you for more information. Please try to be as detailed as possible in your report. Include information such as:
 
-* What is your environment?
-* What steps are taken to replicate the issue?
+* Your environment
+* Steps taken to replicate the issue
 * Does it only occur in a specific browser or OS?
 
 Details like the above can help us fix any potential bugs.
