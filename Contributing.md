@@ -47,7 +47,6 @@ First of all, thank you! If you would like to contribute to Remarkable, please a
 * No semicolons (in client-side JS)
 * 2 spaces (no tabs)
 * strict mode
-* Don't use [jQuery event alias convenience methods](https://github.com/jquery/jquery/blob/master/src/event/alias.js) (such as `$().focus()`). 
 
 ## License
 
