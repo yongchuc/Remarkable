@@ -7,9 +7,9 @@
 
 The [issue tracker](https://github.com/chrisyongchu/Remarkable/issues) is the preferred method for reporting bugs, feature requests and submitting pull requests. Please respect the following restrictions:
 
+* **Be nice**. We're all part of the same community, so be friendly, be welcoming, and generally be a nice person. We reserve the right to delete comments which violate this rule.
 * Please **do not** use the issue tracker for support requests.
 * Please **do not** troll issues. 
-* Please **do not** post comments that do not pertain to Remarkable. We reserve the right to delete comments which violate this rule.
 
 ## Reporting bugs
 
@@ -31,7 +31,7 @@ Details like the above can help us fix any potential bugs.
 
 ## Code guidelines
 
-First of all, thank you! If you would like to contribute to Remarkable, please adhere to this [Code Guide](http://codeguide.co/#html).
+First of all, thank you! If you would like to contribute to Remarkable, please adhere to this [Style Guide](https://google.github.io/styleguide/htmlcssguide.xml).
 
 ### HTML 
 
