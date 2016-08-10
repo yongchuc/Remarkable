@@ -33,7 +33,7 @@ Details like the above can help us fix any potential bugs.
 
 ### HTML 
 
-You should follow this [Code guidelines]{http://codeguide.co/#html).
+You should follow this [Code guidelines](http://codeguide.co/#html).
 
 * Use tags and elements appropriate for an HTML5 doctype.
 * Use CDNs and HTTPS for third-party JS when possible.
