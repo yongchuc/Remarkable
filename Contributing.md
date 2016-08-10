@@ -31,9 +31,9 @@ Details like the above can help us fix any potential bugs.
 
 ## Code guidelines
 
-### HTML 
+If you would like to contribute to Remarkable, first, I'd like to thank you! To adhere to code standards, please follow this [Code Guide](http://codeguide.co/#html).
 
-You should follow these [Code guidelines](http://codeguide.co/#html).
+### HTML 
 
 * Use tags and elements appropriate for an HTML5 doctype.
 * Use CDNs and HTTPS for third-party JS when possible.
