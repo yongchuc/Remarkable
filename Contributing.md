@@ -31,7 +31,7 @@ Details like the above can help us fix any potential bugs.
 
 ## Code guidelines
 
-If you would like to contribute to Remarkable, first, I'd like to thank you! To adhere to code standards, please follow this [Code Guide](http://codeguide.co/#html).
+First of all, thank you! If you would like to contribute to Remarkable, please adhere to this [Code Guide](http://codeguide.co/#html).
 
 ### HTML 
 
