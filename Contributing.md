@@ -19,7 +19,7 @@ Guidelines for reporting bugs:
 
 1. **Validate your code** to ensure that your problem isn't caused by an error in your own code.
 2. **Use the GitHub issue search** to check if the issue has already been reported by someone.
-3. **Check if the issue has been fixed**
+3. **Check if the issue has already been fixed**.
 
 We shouldn't need to ask you for more information. Please try to be as detailed as possible in your report. Include information such as:
 
