@@ -33,6 +33,8 @@ Details like the above can help us fix any potential bugs.
 
 **Do not edit ``remarkable.css``, ``remarkable.min.css``, or ``remarkable.js`` directly!**. Please ask before making any significant changes or you risk wasting a lot of your time on something that I might not want to merge into the project.
 
+Similar to any good pull requests, they should remain focused in scope and should avoid containing unrelated commits.
+
 ## Code guidelines
 
 First of all, thank you! If you would like to contribute to Remarkable, please adhere to this [Style Guide](https://google.github.io/styleguide/htmlcssguide.xml).
