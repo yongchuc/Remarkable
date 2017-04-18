@@ -15,4 +15,4 @@ View the [Getting Started Guide](https://sanbox.org/remarkable) for a full list 
 
 ## License
 
-Copyright (c) 2016 Chris Yongchu (https://sanbox.org/licenses/MIT) under the MIT license.
+Copyright (c) 2017 Chris Yongchu (https://sanbox.org/licenses/MIT) under the MIT license.
