@@ -1,7 +1,7 @@
 # Contributing to Remarkable
 
-* Website: https://sanbox.org/remarkable
-* Email me: chris@sanbox.org
+* Website: https://remarkabledocs.com
+* Email me: yongchuc@icloud.com
 
 ## Using the issue tracker
 
@@ -50,6 +50,6 @@ First of all, thank you! If you would like to contribute to Remarkable, please a
 
 ## License
 
-By contributing your code, you agree to license your contribution under the [MIT License](https://sanbox.org/license/MIT).
+By contributing your code, you agree to license your contribution under the [MIT License](https://remarkabledocs.com/etc/blob/master/licenses/MIT).
 
 
