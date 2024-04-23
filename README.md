@@ -11,7 +11,7 @@ Remarkable is a framework specifically designed to rapidly develop clean, respon
 * Well documented
 * Free!
 
-View the [Getting Started Guide](https://remarkabledocs.com) for a full list of features and elements.
+View the [Getting Started Guide](https://remark.chrisyongchu.com) for a full list of features and elements.
 
 ## License
 
